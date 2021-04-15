@@ -2,8 +2,6 @@ package br.com.lbr.heroes.handler;
 
 import br.com.lbr.heroes.model.Hero;
 import br.com.lbr.heroes.service.HeroService;
-import io.swagger.v3.oas.annotations.Operation;
-import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import static org.springframework.http.MediaType.APPLICATION_JSON;
